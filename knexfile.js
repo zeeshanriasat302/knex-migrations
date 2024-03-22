@@ -10,7 +10,7 @@ module.exports = {
          host: 'localhost',
          user: 'user',
          password: 'mysql@root@pass123',
-         database: 'testmigrations',
+         database: 'knex_migrations3',
          port: 3306
        },
        migrations: {
